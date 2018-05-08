@@ -1,0 +1,3 @@
+## Here can be added paths that will not be versioned by git.
+# for test as a directory
+*test/reference/*
